@@ -11,4 +11,4 @@ Backend engineer. I build full-stack platforms with clean architecture and real 
 
 Payment integrations • Registration systems • Microservices • REST APIs
 
-📫 **aguilop.oscar@gmail.com**
+📫 **aguilop.oscar@gmail.com** • 💼 [LinkedIn](https://linkedin.com/in/oscar-agl)
